@@ -5,6 +5,8 @@ body {
 .row {
   width: 500px;
   background-color: lightgray;
+  display: flex;
+  justify-content: center;
 }
 
 .row div {
